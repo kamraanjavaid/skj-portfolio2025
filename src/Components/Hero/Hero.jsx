@@ -32,14 +32,7 @@ const Hero = () => {
       <motion.p initial={{ opacity: 0 }} 
       animate={{ opacity: 1 }} 
       transition={{ duration: 3, delay: 1 }} >
-        I’m a passionate Software Engineering student with a knack for creating
-        dynamic, user-friendly web applications. My journey began with HTML and
-        CSS, and I soon dove deep into JavaScript and ReactJS, discovering my
-        love for building interactive web experiences. Currently, I'm expanding
-        my horizons by learning the MERN stack to enhance my full-stack
-        development skills. I’m always eager to learn, innovate, and collaborate
-        on exciting projects. Welcome to my portfolio – let’s create something
-        amazing together!
+        I’m a passionate Software Engineering graduate with a knack for creating dynamic, user-friendly web applications. My journey began with HTML and CSS, and I soon dove deep into JavaScript and ReactJS, discovering my love for building interactive web experiences. Currently, I'm expanding my horizons by mastering the MERN stack to enhance my full-stack development skills. I’m always eager to learn, innovate, and collaborate on exciting projects. Welcome to my portfolio – let’s create something amazing together!
       </motion.p>
       <div className="hero-action">
         <div className="hero-connect">Connect With Me</div>
